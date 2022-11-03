@@ -17,6 +17,6 @@ The Medifakt documentation is separated into three major parts:
 **3. Tutorials.** This part contains various consumer-focused tutorials. It can be accessed here. **** &#x20;
 
 {% hint style="info" %}
-Join our [Telegram group](https://t.me/fuseio)\
+Join our [Telegram group](https://t.me/)\
 Or say hello at: hello@medifakt.network
 {% endhint %}

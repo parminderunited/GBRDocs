@@ -86,4 +86,4 @@ Wait until the next cycle is started.
 You can see that you are validating both in the[ health](https://health.fusespark.io) site
 {% endhint %}
 
-For live support, contact us on [Telegram](https://t.me/fuseio) or [Discord](https://discord.gg/tz7ArR). Good luck and happy validating!
+For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/tz7ArR). Good luck and happy validating!
