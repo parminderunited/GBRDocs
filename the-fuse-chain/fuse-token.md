@@ -8,7 +8,7 @@ The native Medifakt token is represented via an ERC-20 token on Ethereum mainnet
 
 ## Medifakt token utility:
 
-* **Validation** Token holders can stake Medifakt to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 50+ validators. \([https://health.medifakt.network/](https://health.medifakt.network/)\)
+* **Validation** Token holders can stake Medifakt to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 50+ validators. \([https://status.medifakt.network/](https://status.medifakt.network/)\)
 * **Voting** Validators vote on protocol changes with their staked Medifakt. Which means validators with higher amounts of Medifakt staked can have a bigger vote on network upgrades and governance changes \(until phase 2 where delegation is activated\)
 * **Fees** The Medifakt token is the native currency on the Medifakt blockchain and is required to pay fees to the network in order to approve transactions.
 * **Delegation - Activated Q3 2020** Delegation for token holders will be activated. This will allow any Medifakt token holder to delegate their tokens to a validator to earn rewards. Validators compete between themselves to receive Medifakt delegated from token holders. Validators with the most Medifakt tokens are elected to validate on Medifakt.

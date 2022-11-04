@@ -5,7 +5,7 @@ The FAKT token is the native currency of the Medifakt blockchain and platform, j
 ## FAKT utility:
 
 * **Transaction fees** Being the native currency on the Medifakt blockchain, FAKT is required to pay fees to the network in order to approve transactions.
-* **Validation** Token holders can stake Medifakt to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 60 validators. ([https://health.medifakt.network/](https://health.medifakt.network/))
+* **Validation** Token holders can stake Medifakt to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 60 validators. ([https://status.medifakt.network/](https://status.medifakt.network/))
 * **Voting** Validators vote on protocol changes with their staked FAKT. Which means validators with higher amounts of Medifakt staked can have a bigger vote on network upgrades and governance changes (until phase 2 where delegation is activated)
 * **Staking (for delegators)** Any FAKT holder can choose one or more validators to delegate any amount of FAKT they wish. They receive a share of the Medifakt block rewards proportionate to the share of their stake in the total stake, minus the minimum 15% fee paid to the validator(s).
 * **Payments** As FAKT is the native currency on Medifakt, sending it does not require interactions with smart contracts. Thus, FAKT transfers are potentially faster and less costly in terms of transaction fees.

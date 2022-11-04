@@ -36,4 +36,4 @@ sudo ./quickstart.sh
 
 ### Step 5 - Verify Upgrade
 
-Check your node on our [health site ](https://health.medifakt.network)It should be online and the client should be "OpenEthereum//v3.2.6-stable", ensure your node is connected to peers and syncing/ in sync.
+Check your node on our [health site ](https://status.medifakt.network)It should be online and the client should be "OpenEthereum//v3.2.6-stable", ensure your node is connected to peers and syncing/ in sync.

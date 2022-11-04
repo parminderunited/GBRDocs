@@ -314,7 +314,7 @@ $ docker run \
 
 _**Note**_
 
-All roles should also run a [Ethereum Network Intelligence API](https://github.com/fuseio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://health.medifakt.network/) service
+All roles should also run a [Ethereum Network Intelligence API](https://github.com/fuseio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://status.medifakt.network/) service
 
 ```text
 $ docker run \
