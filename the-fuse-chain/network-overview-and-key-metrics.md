@@ -17,5 +17,5 @@ The following information will help you discover and connect to the Medifakt blo
   * Archive node RPC:  [https://explorer-node.medifakt.network/](https://explorer-node.medifakt.network/)
 * Explorer: [http://explorer.medifakt.network/](http://explorer.medifakt.network/)
 
-Please refer to the [quickstart](https://github.com/fuseio/fuse-network/#using-quickstart) if you wish to run your own node
+Please refer to the [quickstart](https://github.com/fkt20/FAKTNetwork/#using-quickstart) if you wish to run your own node
 
