@@ -1,3 +1,0 @@
-# Token Faucets
-
-**FAKT faucet**
