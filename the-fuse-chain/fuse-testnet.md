@@ -1,23 +1,23 @@
-# Medifakt Testnet
+# GBR20 Testnet
 
-The Medifakt Testnet is implemented with same components as the Medifakt and is used for testing new features and bug fixes.
+The GBR20 Testnet is implemented with same components as the GBR20 and is used for testing new features and bug fixes.
 
 #### General links and info
 
-* Medifakt Testnet RPC: [`https://testnet.medifakt.network`](https://testnet.medifakt.network)
-* Medifakt Testnet Network ID: `123`
-* Medifakt Testnet Explorer: [`https://explorer-testnet.medifakt.network`](https://explorer-testnet.medifakt.network)\`\`
-* Medifakt Testnet Network Status: [`https://health-testnet.medifakt.network`](https://health-testnet.medifakt.network)\`\`
+* GBR20 Testnet RPC: [`https://testnet.gbrscan.com`](https://testnet.gbrscan.com)
+* GBR20 Testnet Network ID: `123`
+* GBR20 Testnet Explorer: [`https://explorer-testnet.gbrscan.com`](https://explorer-testnet.gbrscan.com)\`\`
+* GBR20 Testnet Network Status: [`https://health-testnet.gbrscan.com`](https://health-testnet.gbrscan.com)\`\`
 
-#### Medifakt Testnet Consensus
+#### GBR20 Testnet Consensus
 
-* Consensus contract address: [`0xEdb1505B953021366D39e02651A7A3Ae7F35b13e`](https://explorer-testnet.medifakt.network/address/0xedb1505b953021366d39e02651a7a3ae7f35b13e)\`\`
-* BlockReward contract address: [`0xD14532e55B7D8C81E6b887334eED47464Eb6471c`](https://explorer-testnet.medifakt.network/address/0xd14532e55b7d8c81e6b887334eed47464eb6471c)\`\`
-* Voting contract address: [`0xD2bD7c70FD3d7b845f8D8d345fda9E12B8170F1D`](https://explorer-testnet.medifakt.network/address/0xd2bd7c70fd3d7b845f8d8d345fda9e12b8170f1d)\`\`
+* Consensus contract address: [`0xEdb1505B953021366D39e02651A7A3Ae7F35b13e`](https://explorer-testnet.gbrscan.com/address/0xedb1505b953021366d39e02651a7a3ae7f35b13e)\`\`
+* BlockReward contract address: [`0xD14532e55B7D8C81E6b887334eED47464Eb6471c`](https://explorer-testnet.gbrscan.com/address/0xd14532e55b7d8c81e6b887334eed47464eb6471c)\`\`
+* Voting contract address: [`0xD2bD7c70FD3d7b845f8D8d345fda9E12B8170F1D`](https://explorer-testnet.gbrscan.com/address/0xd2bd7c70fd3d7b845f8d8d345fda9e12b8170f1d)\`\`
 
-#### Bridge between Medifakt Testnet & Ropsten
+#### Bridge between GBR20 Testnet & Ropsten
 
-* Medifakt Testnet Bridge contract address: [`0x98c57f08582460e7d2f8d76318c9cb1912908f0b`](https://explorer-testnet.medifakt.network/address/0x98c57f08582460e7d2f8d76318c9cb1912908f0b)\`\`
+* GBR20 Testnet Bridge contract address: [`0x98c57f08582460e7d2f8d76318c9cb1912908f0b`](https://explorer-testnet.gbrscan.com/address/0x98c57f08582460e7d2f8d76318c9cb1912908f0b)\`\`
 * Ropsten Bridge contract address: [`0xE0a7357dDe033f0D0F4331B8336056B675d00D98`](https://ropsten.etherscan.io/address/0xe0a7357dde033f0d0f4331b8336056b675d00d98)\`\`
-* Medifakt Testnet token on Ropsten: [`0xB06901855005a4aB148A19E403E490F73Df4aDf5`](https://ropsten.etherscan.io/token/0xb06901855005a4ab148a19e403e490f73df4adf5)\`\`
+* GBR20 Testnet token on Ropsten: [`0xB06901855005a4aB148A19E403E490F73Df4aDf5`](https://ropsten.etherscan.io/token/0xb06901855005a4ab148a19e403e490f73df4adf5)\`\`
 

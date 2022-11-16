@@ -31,8 +31,8 @@ Note that if the new validator set transactions fail on mainnet there’s a chan
 
 Example for a successful flow \(from 7/6/2020\)
 
-1. Consensus.emitInitiateChange transaction on fuse - [https://explorer.medifakt.network/tx/0xfc44d6ded7521fe00de3167b4845adc0df91df2021680cc3dea588179b14bdc4](https://explorer.medifakt.network/tx/0xfc44d6ded7521fe00de3167b4845adc0df91df2021680cc3dea588179b14bdc4)
-2. BlockReward.emitRewardedOnCycle transaction on fuse - [https://explorer.medifakt.network/tx/0x76ae7870209c878c1eb120ecde9704902d5c823d67df3ecd55e340aab89e97fe](https://explorer.medifakt.network/tx/0x76ae7870209c878c1eb120ecde9704902d5c823d67df3ecd55e340aab89e97fe)
+1. Consensus.emitInitiateChange transaction on fuse - [https://explorer.gbrscan.com/tx/0xfc44d6ded7521fe00de3167b4845adc0df91df2021680cc3dea588179b14bdc4](https://explorer.gbrscan.com/tx/0xfc44d6ded7521fe00de3167b4845adc0df91df2021680cc3dea588179b14bdc4)
+2. BlockReward.emitRewardedOnCycle transaction on fuse - [https://explorer.gbrscan.com/tx/0x76ae7870209c878c1eb120ecde9704902d5c823d67df3ecd55e340aab89e97fe](https://explorer.gbrscan.com/tx/0x76ae7870209c878c1eb120ecde9704902d5c823d67df3ecd55e340aab89e97fe)
 3. Successful validators update transaction on mainnet - [https://etherscan.io/tx/0xf43b2abebd64537dbd7d834c9ac7a42ce8a925da5cb5278002ce0687187c8882](https://etherscan.io/tx/0xf43b2abebd64537dbd7d834c9ac7a42ce8a925da5cb5278002ce0687187c8882)
 4. Successful fuse minting transaction on mainnet - [https://etherscan.io/tx/0x2bd70ecbff6e84c18306701eb380e558a7340fab61aadf1af7690021aeeef5ce](https://etherscan.io/tx/0x2bd70ecbff6e84c18306701eb380e558a7340fab61aadf1af7690021aeeef5ce)
 

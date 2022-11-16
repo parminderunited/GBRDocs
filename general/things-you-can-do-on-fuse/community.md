@@ -4,21 +4,21 @@
 
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
 
-**Medifakt Forum**: [https://forum.medifakt.network/](https://forum.medifakt.network/)
+**GBR20 Forum**: [https://forum.gbrscan.com/](https://forum.gbrscan.com/)
 
 ### Public Telegram groups
 
 **Main chat**: [https://t.me/](https://t.me/)
 
-<!-- **Medifakt announcements group**: [https://t.me/FuseAnnouncements](https://t.me/FuseAnnouncements) -->
+<!-- **GBR20 announcements group**: [https://t.me/FuseAnnouncements](https://t.me/FuseAnnouncements) -->
 
-<!-- **Medifakt Cash group**: [https://t.me/fusecash](https://t.me/fusecash) -->
+<!-- **GBR20 Cash group**: [https://t.me/fusecash](https://t.me/fusecash) -->
 
 <!-- **TLChainSwap group**: [https://t.me/fuseswap](https://t.me/fuseswap) -->
 
-<!-- **Medifakt NFTs**: [https://t.me/fuseNFTs](https://t.me/fuseNFTs)&#x20; -->
+<!-- **GBR20 NFTs**: [https://t.me/fuseNFTs](https://t.me/fuseNFTs)&#x20; -->
 
-**Italian Medifakt Telegram community:** [https://t.me/](https://t.me/)
+**Italian GBR20 Telegram community:** [https://t.me/](https://t.me/)
 
-**Indonesian Medifakt Telegram community:** [https://t.me/](https://t.me/)
+**Indonesian GBR20 Telegram community:** [https://t.me/](https://t.me/)
 

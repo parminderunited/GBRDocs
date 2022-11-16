@@ -1,4 +1,4 @@
-# Exchanges, Wallets, On-Ramps and DeFi Tools Supporting FAKT
+# Exchanges, Wallets, On-Ramps and DeFi Tools Supporting GBR
 
 ## Exchanges
 
@@ -10,7 +10,7 @@
 
 [Liquid Global](https://liquid.com)
 
-The best data on the active FAKT trading pairs is available [here](https://www.coingecko.com/en/coins/fuse#markets).
+The best data on the active GBR trading pairs is available [here](https://www.coingecko.com/en/coins/fuse#markets).
 
 ### DEXes
 
@@ -34,7 +34,7 @@ DoDo
 
 ## Wallets
 
-[Medifakt Cash](https://fuse.c)
+[GBR20 Cash](https://fuse.c)
 
 Metamask
 
@@ -50,10 +50,10 @@ Trust Wallet (Binance Smart Chain)
 
 ## DeFi Tools
 
-[Medifakt Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
+[GBR20 Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
 
-[Medifakt Rewards](https://rewards.medifakt.network)
+[GBR20 Rewards](https://rewards.gbrscan.com)
 
-[Medifakt Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
+[GBR20 Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
 
 [Staking Rewards](https://www.stakingrewards.com/)

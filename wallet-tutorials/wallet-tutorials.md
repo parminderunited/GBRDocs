@@ -1,6 +1,6 @@
 ---
 description: >-
-  This tutorial will explain how to add, send and receive FAKT on your Trust
+  This tutorial will explain how to add, send and receive GBR on your Trust
   wallet.
 ---
 
@@ -18,37 +18,37 @@ This guide has been prepared using Trust wallet version **1.15.5** on Android.
 
 ![](../.gitbook/assets/2-2.jpg)
 
-**Step 3:** Make sure the network is selected as **“Ethereum”** and enter the FAKT contract details as mentioned below.
+**Step 3:** Make sure the network is selected as **“Ethereum”** and enter the GBR contract details as mentioned below.
 
-**FAKT**:
+**GBR**:
 
 Contract address - **0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d**
 
-Name - **FAKT token**
+Name - **GBR token**
 
-Symbol - **FAKT**
+Symbol - **GBR**
 
 Decimals - **18**
 
 ![](../.gitbook/assets/3%20%281%29.jpeg)
 
-**Step 4:** You have added **FAKT** successfully on your Trust wallet and now you should see **FAKT** on your main page as shown below.
+**Step 4:** You have added **GBR** successfully on your Trust wallet and now you should see **GBR** on your main page as shown below.
 
 ![](../.gitbook/assets/4-1.jpg)
 
-Now let’s learn how to Send/Receive **FAKT** on Trust wallet.
+Now let’s learn how to Send/Receive **GBR** on Trust wallet.
 
-**To receive FAKT:** Once completing Steps 1-4, Press on **FAKT token** in the main page of your wallet and you should see the Send/Receive button as shown below. Now click on **“Receive”** and your **FAKT token** address \(Public key\) will appear to which you can send FAKT. Once the transaction is confirmed on-chain the FAKT balance will be shown.
+**To receive GBR:** Once completing Steps 1-4, Press on **GBR token** in the main page of your wallet and you should see the Send/Receive button as shown below. Now click on **“Receive”** and your **GBR token** address \(Public key\) will appear to which you can send GBR. Once the transaction is confirmed on-chain the GBR balance will be shown.
 
 ![](../.gitbook/assets/5-1.jpg)
 
 ![](../.gitbook/assets/5-2.jpg)
 
-**To send FAKT:** Press “**FAKT token”** on the main page of your wallet and you will see **“Send/Receive”** button as shown below. Now click **“Send”** which will take you to the next page where you need to enter the **“Recipient Address”** to which you want to send **FAKT** to and the **“Amount”** then click **“Continue”.** You can adjust the gas fees according to the Ethereum network gas prices and confirm the transaction.
+**To send GBR:** Press “**GBR token”** on the main page of your wallet and you will see **“Send/Receive”** button as shown below. Now click **“Send”** which will take you to the next page where you need to enter the **“Recipient Address”** to which you want to send **GBR** to and the **“Amount”** then click **“Continue”.** You can adjust the gas fees according to the Ethereum network gas prices and confirm the transaction.
 
 ![](../.gitbook/assets/6-1.jpg)
 
 ![](../.gitbook/assets/6-2.jpg)
 
-We hope this tutorial helped you to use MEW and send/receive FAKT tokens. Until next time friends!
+We hope this tutorial helped you to use MEW and send/receive GBR tokens. Until next time friends!
 

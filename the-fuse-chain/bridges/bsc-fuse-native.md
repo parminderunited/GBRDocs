@@ -1,10 +1,10 @@
 ---
 description: >-
-  Medifakt native bridge is used to relay the Medifakt native token between Medifakt and
+  GBR20 native bridge is used to relay the GBR20 native token between GBR20 and
   Binance Smart Chain (BSC) networks
 ---
 
-# Medifakt Native: BSC ↔ Medifakt
+# GBR20 Native: BSC ↔ GBR20
 
 ## Architecture Overview
 
@@ -12,13 +12,13 @@ This bridge is two layer bridge. In the base level the Arbitrary Message Bridge 
 
 ## Contracts
 
-Home side of the bridge on the Medifakt network: [0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD](https://explorer.medifakt.network/address/0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD/transactions)
+Home side of the bridge on the GBR20 network: [0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD](https://explorer.gbrscan.com/address/0xf9b276A1A05934ccD953861E8E59c6Bc428c8cbD/transactions)
 
 Foreign side of the bridge on the BSC network: [0x61A8287fA7a9f4D10F4699BC2aE77f962DC508B6](https://etherscan.io/address/0x61A8287fA7a9f4D10F4699BC2aE77f962DC508B6)
 
-Medifakt token on the BSC network: [0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3](https://bscscan.com/token/0x5857c96dae9cf8511b08cb07f85753c472d36ea3)
+GBR20 token on the BSC network: [0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3](https://bscscan.com/token/0x5857c96dae9cf8511b08cb07f85753c472d36ea3)
 
-Home side of the AMB bridge on the Medifakt network: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://explorer.medifakt.network/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706)
+Home side of the AMB bridge on the GBR20 network: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://explorer.gbrscan.com/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706)
 
 Foreign side of the AMB bridge on the BSC network: [0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6](https://bscscan.com/address/0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6)
 
@@ -28,16 +28,16 @@ Foreign side of the AMB bridge on the BSC network: [0x3A5A320a2f98a3Fe39c9040e7e
 
 ## How to use
 
-To send token from the Medifakt network:
+To send token from the GBR20 network:
 
-Send native Medifakt token to the home bridge contract. Then you receive an equal amount of the Medifakt token on the BSC network, sent from the foreign bridge contract.
+Send native GBR20 token to the home bridge contract. Then you receive an equal amount of the GBR20 token on the BSC network, sent from the foreign bridge contract.
 
 To send token from the BSC network:
 
-1. Approve the Medifakt TL20 tokens to be spent by the Foreign TL20 bridge. 
+1. Approve the GBR20 TL20 tokens to be spent by the Foreign TL20 bridge. 
 2. Call relayTokens function on the bridge contract
 
-the `relayTokens` method will lock the TL20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the Medifakt TL20 token will be released from the home bridge contract on BSC.
+the `relayTokens` method will lock the TL20 tokens on the foreign bridge. After a couple of confirmations, an equal amount of the GBR20 TL20 token will be released from the home bridge contract on BSC.
 
 #### 
 

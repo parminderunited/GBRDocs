@@ -2,4 +2,4 @@
 
 ## Run Local Node
 
-Read more at: [https://github.com/fkt20/FAKTNetwork/tree/master/node-example](https://github.com/fkt20/FAKTNetwork/tree/master/node-example)
+Read more at: [https://github.com/parminderunited/GBRNetwork/tree/master/node-example](https://github.com/parminderunited/GBRNetwork/tree/master/node-example)

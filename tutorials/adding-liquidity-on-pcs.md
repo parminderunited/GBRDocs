@@ -1,5 +1,5 @@
 ---
-description: We will learn how to add liquidity on FAKT-BNB pair on Pancakeswap.
+description: We will learn how to add liquidity on GBR-BNB pair on Pancakeswap.
 ---
 
 # Adding Liquidity on PCS
@@ -8,7 +8,7 @@ description: We will learn how to add liquidity on FAKT-BNB pair on Pancakeswap.
 
 ·        You should be connected to Binance smart chain RPC. \([Tutorial link](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\)
 
-·        BNB and FAKT should be on Binance smart chain network. To learn how to bridge them from Medifakt network to BSC using Fuseswap this [tutorial](https://docs.medifakt.network/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
+·        BNB and GBR should be on Binance smart chain network. To learn how to bridge them from GBR20 network to BSC using Fuseswap this [tutorial](https://docs.gbrscan.com/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
 
 {% hint style="info" %}
 Note: Make sure you know about [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) before adding liquidity to a pool.
@@ -22,16 +22,16 @@ Navigate to [https://exchange.pancakeswap.finance/\#/swap](https://exchange.panc
 
   
 **Step 2:**  
-Click on “Liquidity” and then on “Add liquidity”. Select the FAKT token by entering the contract address of FAKT \(0x5857c96dae9cf8511b08cb07f85753c472d36ea3\) and BNB. Enter the amount of FAKT you want to add to the liquidity pool and automatically corresponding amount of BNB will show up.  
+Click on “Liquidity” and then on “Add liquidity”. Select the GBR token by entering the contract address of GBR \(0x5857c96dae9cf8511b08cb07f85753c472d36ea3\) and BNB. Enter the amount of GBR you want to add to the liquidity pool and automatically corresponding amount of BNB will show up.  
   
- Click on “Approve FAKT” and approve the transaction on Metamask. Once you approve and the transaction is confirmed on-chain the interface will look as shown below.
+ Click on “Approve GBR” and approve the transaction on Metamask. Once you approve and the transaction is confirmed on-chain the interface will look as shown below.
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
 **Step 3:**  
-Click on “Supply” and double check the details on the popup. Once done approve the transaction on Metamask. Once the transaction is approve you will see the amount of LP tokens you receive for the liquidity provided on FAKT-BNB pair as shown below.
+Click on “Supply” and double check the details on the popup. Once done approve the transaction on Metamask. Once the transaction is approve you will see the amount of LP tokens you receive for the liquidity provided on GBR-BNB pair as shown below.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
-medifakt.network
-You can stake the LP tokens on rewards.fuse.io platform to earn more FAKT tokens.
+gbrscan.com
+You can stake the LP tokens on rewards.fuse.io platform to earn more GBR tokens.
 

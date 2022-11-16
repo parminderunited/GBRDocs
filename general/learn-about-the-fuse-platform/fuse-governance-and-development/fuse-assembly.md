@@ -1,20 +1,20 @@
-# Medifakt Assembly
+# GBR20 Assembly
 
-Medifakt Assembly is a governance body formed from particularly active members of the Medifakt community. Its formation is the first step in transitioning full governance and ownership over the Medifakt platform to the community. &#x20;
+GBR20 Assembly is a governance body formed from particularly active members of the GBR20 community. Its formation is the first step in transitioning full governance and ownership over the GBR20 platform to the community. &#x20;
 
-Currently, Medifakt Assembly consists of five Medifakt ecosystem members independent from Medifakt Foundation who have shown consistent dedication and commitment to the project, and already have a voice within the community.
+Currently, GBR20 Assembly consists of five GBR20 ecosystem members independent from GBR20 Foundation who have shown consistent dedication and commitment to the project, and already have a voice within the community.
 
-Medifakt Assembly's **current role includes the following**:&#x20;
+GBR20 Assembly's **current role includes the following**:&#x20;
 
-* taking over the control over the [Medifakt Forum](https://forum.medifakt.network/) community discussion platform;
-* implementing the Snapshot voting mechanism on Medifakt; and
+* taking over the control over the [GBR20 Forum](https://forum.gbrscan.com/) community discussion platform;
+* implementing the Snapshot voting mechanism on GBR20; and
 * managing the Community Token Pool.
 
 ## Community Token Pool
 
-Medifakt Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 FAKT** will be allocated to it from the Medifakt Bootstrap Pool (discussed [here](https://docs.medifakt.network/general/fuse-token/fuse-supply-and-current-distribution)).
+GBR20 Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 GBR** will be allocated to it from the GBR20 Bootstrap Pool (discussed [here](https://docs.gbrscan.com/general/fuse-token/fuse-supply-and-current-distribution)).
 
-Medifakt Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation. &#x20;
+GBR20 Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation. &#x20;
 
 ## Current Assembly members
 
@@ -22,31 +22,31 @@ Medifakt Assembly will regularly distribute the Community Token Pool funds to fi
 
 _**Council Chairman**_
 
-> Rob is a software developer and business operations expert with over 20 years of experience. He runs [Fuseprime](https://fuseprime.com/)**,** an independent organization that was one of the first validators on Medifakt, and has been heavily involved in Medifakt community management and strategic project development since 2019.
+> Rob is a software developer and business operations expert with over 20 years of experience. He runs [Fuseprime](https://fuseprime.com/)**,** an independent organization that was one of the first validators on GBR20, and has been heavily involved in GBR20 community management and strategic project development since 2019.
 
 ### **2. Luc Lammers** <a href="#1b91" id="1b91"></a>
 
 _**Council Member, Business & Marketing**_
 
-> [Luc](https://www.luclammers.com/) **** is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the Medifakt ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
+> [Luc](https://www.luclammers.com/) **** is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the GBR20 ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
 
-### **3. Lucas @ Medifakt Core** <a href="#2105" id="2105"></a>
+### **3. Lucas @ GBR20 Core** <a href="#2105" id="2105"></a>
 
 _**Council Member, Business & Finance**_
 
-> Lucas is a financial expert and bank-less enthusiast with over 16 years of experience in financial management and consulting. Lucas joined the Medifakt ecosystem in late 2020 and runs a validator. He brings an extra dimension to the development and presentation of Medifakt in the business community.
+> Lucas is a financial expert and bank-less enthusiast with over 16 years of experience in financial management and consulting. Lucas joined the GBR20 ecosystem in late 2020 and runs a validator. He brings an extra dimension to the development and presentation of GBR20 in the business community.
 
 ### **4. Bertrand Juglas** <a href="#41a8" id="41a8"></a>
 
 _**Council Member, Technology**_
 
-> Bertrand brings over twenty years of open-source engineering and DevOps experience to the team, having worked extensively with Linux and other leading technologies. He was originally introduced to Medifakt whilst working on the GoodDollar project where he remains a leading voice and prominent community member.
+> Bertrand brings over twenty years of open-source engineering and DevOps experience to the team, having worked extensively with Linux and other leading technologies. He was originally introduced to GBR20 whilst working on the GoodDollar project where he remains a leading voice and prominent community member.
 
 ### **5. Jan Owiesniak** <a href="#bce2" id="bce2"></a>
 
 _**Council Member, Business & Technology**_
 
-> Jan has over 10 years of business and software development experience and currently serves as CTO and co-founder of an Augmented Reality platform designed to drive customer loyalty and boost sales. Having joined the Medifakt ecosystem more recently in 2021, Jan has shown an enormous amount of commitment, providing support and feedback across the various different technologies that we are building.
+> Jan has over 10 years of business and software development experience and currently serves as CTO and co-founder of an Augmented Reality platform designed to drive customer loyalty and boost sales. Having joined the GBR20 ecosystem more recently in 2021, Jan has shown an enormous amount of commitment, providing support and feedback across the various different technologies that we are building.
 
 
 
@@ -54,4 +54,4 @@ _**Council Member, Business & Technology**_
 
 _**Council Member**_
 
-> Maor is a software developer, a long-time active participant of the Medifakt community and a co-founder of Flambu.&#x20;
+> Maor is a software developer, a long-time active participant of the GBR20 community and a co-founder of Flambu.&#x20;

@@ -1,7 +1,7 @@
 ---
 description: >-
   This is a quick step-by-step guide to setting up your Metamask and Torus
-  before you launch your community on the Medifakt Studio.
+  before you launch your community on the GBR20 Studio.
 ---
 
 # Setting up Metamask and Torus
@@ -44,7 +44,7 @@ Copy your **wallet address**
 Paste the **wallet address** in the field and press **send me test Ether**
 {% endhint %}
 
-**Step 4 -** Congratulations! You now have Ropsten ETH to use! Now you can **access** the[ Medifakt studio](https://studio.medifakt.network/) which you can also navigate to from the main page of the Medifakt website. Once there, click on the **'connect wallet'** button, where you can choose to connect with either Metamask \(recommended\) or Torus. Press **connect with Metamask** and vualá!
+**Step 4 -** Congratulations! You now have Ropsten ETH to use! Now you can **access** the[ GBR20 studio](https://studio.gbrscan.com/) which you can also navigate to from the main page of the GBR20 website. Once there, click on the **'connect wallet'** button, where you can choose to connect with either Metamask \(recommended\) or Torus. Press **connect with Metamask** and vualá!
 
 ![](https://lh5.googleusercontent.com/0bo-JxSCMa3LP66hYzyAItVUDHX6Bng0pLRSCZ7t7jBzSRoiASxj8wOveupcy4km_3Q5AWQJhZY_Neb7HNhHc3PbyJgKXKvEswVZCPzQBH-yfl_bf3n9cmwaJVkfybitcg9sEIUS)
 
@@ -64,21 +64,21 @@ Choose **MetaMask**
 Click **connect**
 {% endhint %}
 
-**Step 5 -** To perform actions on the Medifakt Studio after issuing your community, you will need to **add** the **Medifakt Custom RPC** to your Metamask. To do so, click on the Metamask icon in your browser, then **select** network and **custom RPC**. Type in the following information into the corresponding fields:
+**Step 5 -** To perform actions on the GBR20 Studio after issuing your community, you will need to **add** the **GBR20 Custom RPC** to your Metamask. To do so, click on the Metamask icon in your browser, then **select** network and **custom RPC**. Type in the following information into the corresponding fields:
 
 {% hint style="danger" %}
-* **Network name:** Medifakt
-* **New RPC URL:**[ ****https://mainnet-rpc.medifakt.network](https://mainnet-rpc.medifakt.network)
-* **ChainID:** 2321
-* **Symbol:** FAKT
-* **Block Explorer URL:**[ ****https://explorer.medifakt.network](https://explorer.medifakt.network)
+* **Network name:** GBR20
+* **New RPC URL:**[ ****https://mainnet-rpc.gbrscan.com](https://mainnet-rpc.gbrscan.com)
+* **ChainID:** 14368
+* **Symbol:** GBR
+* **Block Explorer URL:**[ ****https://explorer.gbrscan.com](https://explorer.gbrscan.com)
 {% endhint %}
 
-After doing so, **do not** **switch** to this new **custom network** just yet. It will be needed **after** you issue your community and tokens, inside the Medifakt Studio.
+After doing so, **do not** **switch** to this new **custom network** just yet. It will be needed **after** you issue your community and tokens, inside the GBR20 Studio.
 
 ![](https://lh5.googleusercontent.com/KlXdb_8hyTW65TRu1ihO5cFbzAYxcBAf1Z45LosvVnJhOWKMcXdB9MyyaLAs9EoL68pSGh3dVapNFezkBywQWRXU6IRYZE0LuAOG3Pk6b2y0pQTIwOnKt-uo-cmZW8cZgAV6spDx)
 
-**Step 6 -** Ready, set, launch! You are ready to **create your own community** on Medifakt studio! Simply press the [**launch your community**](https://studio.medifakt.network/view/issuance) ****action button to begin the process. 
+**Step 6 -** Ready, set, launch! You are ready to **create your own community** on GBR20 studio! Simply press the [**launch your community**](https://studio.gbrscan.com/view/issuance) ****action button to begin the process. 
 
 ![](https://lh6.googleusercontent.com/e2Sgm9XCIfxrttDx_NkGiyV1-pE4SQHjxCZ_aISU2rAdusMJuPKbEqrANhQngoiABoXaUWdSz046OTyz9fnMI1AE6Zo8R2DsX31fZ73E_n3-bHSkCjmAIvApT-VUe6z7Gttu_JYe)
 
@@ -90,7 +90,7 @@ Follow the tutorial in the next section of the walkthroughs called '**Community 
 
 ![](../../.gitbook/assets/2.png)
 
-**Step 2** **-** Next, switch to Ropsten Test Network by clicking on the 'Settings' section in your account and pick **Ropsten Test Network** in the 'Network' tab. You can also switch the network on the  Medifakt Studio main page by pressing the **wallet tab** and picking '**Switch to Ropsten network**', then clicking confirm.
+**Step 2** **-** Next, switch to Ropsten Test Network by clicking on the 'Settings' section in your account and pick **Ropsten Test Network** in the 'Network' tab. You can also switch the network on the  GBR20 Studio main page by pressing the **wallet tab** and picking '**Switch to Ropsten network**', then clicking confirm.
 
 {% hint style="info" %}
 Remember, most actions involved with your community and wallet will incur fees which would be quite costly using ETH, so for this reason, we strongly recommend switching to the Ropsten Test Network which uses test ETH balance that can be used to pay for those fees instead.
@@ -120,7 +120,7 @@ Copy your **wallet address**
 Paste the **wallet address** in the field and press **send me test Ether**
 {% endhint %}
 
-**Step 4 -** Congratulations! You now have Ropsten ETH to use! Now you can **access** the[ Medifakt studio](https://studio.medifakt.network/) which you can also navigate to from the main page of the Medifakt website. Once there, click on the **'connect wallet'** button, where you can choose to connect with either Metamask \(recommended\) or Torus. Press **connect with Torus**.
+**Step 4 -** Congratulations! You now have Ropsten ETH to use! Now you can **access** the[ GBR20 studio](https://studio.gbrscan.com/) which you can also navigate to from the main page of the GBR20 website. Once there, click on the **'connect wallet'** button, where you can choose to connect with either Metamask \(recommended\) or Torus. Press **connect with Torus**.
 
 ![](https://lh5.googleusercontent.com/0bo-JxSCMa3LP66hYzyAItVUDHX6Bng0pLRSCZ7t7jBzSRoiASxj8wOveupcy4km_3Q5AWQJhZY_Neb7HNhHc3PbyJgKXKvEswVZCPzQBH-yfl_bf3n9cmwaJVkfybitcg9sEIUS)
 
@@ -134,21 +134,21 @@ Click **connect wallet**
 Choose **Torus**
 {% endhint %}
 
-**Step 5 -** To use the studio, you will need to **add** the **Medifakt Custom RPC** to your Torus network settings. To do so, click on the 'Settings' section in your Torus account, then **select** network and custom RPC. Type in the following:
+**Step 5 -** To use the studio, you will need to **add** the **GBR20 Custom RPC** to your Torus network settings. To do so, click on the 'Settings' section in your Torus account, then **select** network and custom RPC. Type in the following:
 
 {% hint style="danger" %}
-* **Network name:** Medifakt
-* **New RPC URL:**[ ****https://mainnet-rpc.medifakt.network](https://mainnet-rpc.medifakt.network)
-* **ChainID:** 2321
+* **Network name:** GBR20
+* **New RPC URL:**[ ****https://mainnet-rpc.gbrscan.com](https://mainnet-rpc.gbrscan.com)
+* **ChainID:** 14368
 {% endhint %}
 
-Make sure to have the network settings on '**Ropsten Test Network'** for testing purposes or **Main Ethereum Network** when you are ready to launch an official community. You will only need to change to the new RPC Network **after** you have created your community to perform actions on the Medifakt Studio.
+Make sure to have the network settings on '**Ropsten Test Network'** for testing purposes or **Main Ethereum Network** when you are ready to launch an official community. You will only need to change to the new RPC Network **after** you have created your community to perform actions on the GBR20 Studio.
 
 ![](../../.gitbook/assets/screenshot-2020-07-29-at-20.32.49.png)
 
 ![](../../.gitbook/assets/screenshot-2020-07-31-at-18.47.23.png)
 
-**Step 6 -** Ready, set, launch! You are ready to **create your own community** on Medifakt studio! Simply press the [launch you community](https://studio.medifakt.network/view/issuance) ****action button to begin the process.
+**Step 6 -** Ready, set, launch! You are ready to **create your own community** on GBR20 studio! Simply press the [launch you community](https://studio.gbrscan.com/view/issuance) ****action button to begin the process.
 
 ![](https://lh6.googleusercontent.com/e2Sgm9XCIfxrttDx_NkGiyV1-pE4SQHjxCZ_aISU2rAdusMJuPKbEqrANhQngoiABoXaUWdSz046OTyz9fnMI1AE6Zo8R2DsX31fZ73E_n3-bHSkCjmAIvApT-VUe6z7Gttu_JYe)
 

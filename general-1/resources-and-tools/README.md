@@ -2,9 +2,9 @@
 
 ### DApp Management & Development Tools
 
-[The Graph](https://thegraph.com) supports Medifakt data indexing, quierying and display.
+[The Graph](https://thegraph.com) supports GBR20 data indexing, quierying and display.
 
-[Remix IDE](https://remix-project.org/): It's easy to deploy on Medifakt with Remix, simply choose injected web3 and add the Medifakt custom RPC to your Metamask.
+[Remix IDE](https://remix-project.org/): It's easy to deploy on GBR20 with Remix, simply choose injected web3 and add the GBR20 custom RPC to your Metamask.
 
 [JustSmartContracts](https://justsmartcontracts.dev/): another smart contract deployment tool for EVM chains.&#x20;
 

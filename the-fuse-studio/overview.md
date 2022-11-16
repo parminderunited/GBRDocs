@@ -1,10 +1,10 @@
 # Studio overview
 
-Medifakt Studio is a DApp \(Decentralized App\) running on the Ethereum and Medifakt networks. It allows anybody without technical knowledge to launch a community and integrate a token into it. With Medifakt studio, a token is easily minted on Ethereum through a user friendly wizard. It's then moved through the bridge to the Medifakt to add business and community features to it and manage it.
+GBR20 Studio is a DApp \(Decentralized App\) running on the Ethereum and GBR20 networks. It allows anybody without technical knowledge to launch a community and integrate a token into it. With GBR20 studio, a token is easily minted on Ethereum through a user friendly wizard. It's then moved through the bridge to the GBR20 to add business and community features to it and manage it.
 
 [![](../.gitbook/assets/you6.png) ](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA/videos?view_as=subscriber)
 
-Via the DApp you can access the contracts and services of the Medifakt network. You can launch your community on the Medifakt network with a token bridged to Ethereum, intergate web3.0 services from the DeFi \(Decentralized Finance\) ecosystem. The community is upgraded by a variety of plugins that customize the community to your needs. It allows you to:
+Via the DApp you can access the contracts and services of the GBR20 network. You can launch your community on the GBR20 network with a token bridged to Ethereum, intergate web3.0 services from the DeFi \(Decentralized Finance\) ecosystem. The community is upgraded by a variety of plugins that customize the community to your needs. It allows you to:
 
 * Add to your community users, business, admins and more tailor made roles
 * Define transfer and bonus rules for the community members
@@ -14,24 +14,24 @@ Via the DApp you can access the contracts and services of the Medifakt network. 
 * You can add your own plugins \(soon to come\)
 * Local dapp store \(soon to come\)
 
-The logic is defined by Ethereum compatible smart contracts and backend services that listen to the events on the blockchain. We prefer to use the Medifakt chain for fast and cheap transactions, but some significant events necessarily happen on the Ethereum network, as a gateway to the whole Ethereum ecosystem. We do not own private user data, it is controlled by the user themselves, via 3box and stored in IPFS.
+The logic is defined by Ethereum compatible smart contracts and backend services that listen to the events on the blockchain. We prefer to use the GBR20 chain for fast and cheap transactions, but some significant events necessarily happen on the Ethereum network, as a gateway to the whole Ethereum ecosystem. We do not own private user data, it is controlled by the user themselves, via 3box and stored in IPFS.
 
-![Medifakt Studio architecture](../.gitbook/assets/image%20%283%29.png)
+![GBR20 Studio architecture](../.gitbook/assets/image%20%283%29.png)
 
 ## Backend Infrastructure
 
 The backend is composed of the following independent services
 
 * Studio API Backend has two purposes. Provides an API for fast and convenient querying of the blockchain data for the Studio DApp. Transmits heavy and complicated transaction flows on behalf of the user.
-* Medifakt-funder service used to fund community members and wallet users on the Medifakt blockchain.
-* Medifakt IPFS proxy used for fast fetching and storing data in IPFS.
+* GBR20-funder service used to fund community members and wallet users on the GBR20 blockchain.
+* GBR20 IPFS proxy used for fast fetching and storing data in IPFS.
 
 ## Contracts
 
-Medifakt studio is designed to launch DeFi communities on the Medifakt network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
+GBR20 studio is designed to launch DeFi communities on the GBR20 network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
 
 * Entities List contract to store community members and their roles
-* Community TL20 tokens on Medifakt network with transfer rules
+* Community TL20 tokens on GBR20 network with transfer rules
 * TL20 tokens on Ethereum. This is the token that the user issues as part of the community deployment process
 * [Multitoken bridge](https://github.com/fuseio/bridge-contracts) - to minimize friction and costs we extended the POA TL20-TL20 bridge contract to many-TL20-to-many contract.
 

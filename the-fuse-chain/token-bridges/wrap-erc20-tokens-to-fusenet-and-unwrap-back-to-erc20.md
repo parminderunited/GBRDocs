@@ -4,7 +4,7 @@ description: Steps to transfer/wrap TL20 tokens from Ethereum to Fusenet
 
 # Bridge for TL20 tokens
 
-Please use this tutorial at your own risk as it involves using Etherscan UI/Medifakt explorer to relay the tokens.
+Please use this tutorial at your own risk as it involves using Etherscan UI/GBR20 explorer to relay the tokens.
 
 We are going to have a UI soon so it would be good to wait for the bridge UI too.
 
@@ -52,7 +52,7 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 
 ![](../../.gitbook/assets/3%20%285%29.png)
 
-Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your Medifakt address and have been swapped from Ethereum mainnet to Fusenet.
+Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your GBR20 address and have been swapped from Ethereum mainnet to Fusenet.
 
 Now let’s learn how to transfer the wrapped TL20 tokens on Fusenet back to Ethereum mainnet.
 
@@ -62,11 +62,11 @@ This step basically is to approve your wallet to interact with the USDT token co
 
 Please go to token contract on Fusenet explorer via link below.
 
-https://explorer.medifakt.network/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
+https://explorer.gbrscan.com/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
 
 ![](../../.gitbook/assets/4%20%286%29.png)
 
-Make sure that the network is FAKT network. If you have not added Medifakt network please follow the instructions [here](https://docs.medifakt.network/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Make sure that the network is GBR network. If you have not added GBR20 network please follow the instructions [here](https://docs.gbrscan.com/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
 
 Click on **“Connect to Metamask”** and sign in to your wallet through Metamask.
 
@@ -83,7 +83,7 @@ Click on **“Write”** and approve the transaction on your Metamask wallet and
 
 Navigate to Migrator contract on Fusenet using the link below
 
-[https://explorer.medifakt.network/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://explorer.medifakt.network/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
+[https://explorer.gbrscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://explorer.gbrscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
 
 Click on **“Write as Proxy”** and then on **“Connect to Metamask”** \(If you have connected Metamask previously no need to connect again\). Sign in through your Metamask wallet.
 
@@ -94,7 +94,7 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 
 ![](../../.gitbook/assets/6%20%285%29.png)
 
-After the transaction is confirmed on Medifakt network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as Medifakt is PoS network. After sometime you should be able to see the successful transfer of the token on your TL20 address.
+After the transaction is confirmed on GBR20 network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as GBR20 is PoS network. After sometime you should be able to see the successful transfer of the token on your TL20 address.
 
 Note: Please do enter the decimals very carefully. If the decimals are entered incorrectly then the transaction might fail with an error or might cost you very high gas.
 

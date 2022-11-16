@@ -1,3 +1,3 @@
-# Wallets supporting Medifakt
+# Wallets supporting GBR20
 
-The following wallets currently support the Medifakt blockchain.
+The following wallets currently support the GBR20 blockchain.

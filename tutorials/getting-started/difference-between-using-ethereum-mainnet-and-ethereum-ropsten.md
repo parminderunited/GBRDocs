@@ -1,6 +1,6 @@
 ---
 description: >-
-  Creating a community on Medifakt Studio requires to pick between using the
+  Creating a community on GBR20 Studio requires to pick between using the
   Ethereum Mainnet and Ethereum Ropsten networks. So what is the difference?
 ---
 

@@ -1,16 +1,16 @@
 ---
-description: This tutorial will explain how to delegate/stake/unstake your FAKT.
+description: This tutorial will explain how to delegate/stake/unstake your GBR.
 ---
 
 # Staking tutorial
 
-Note: You can only stake FAKT which is on Medifakt network. Please make sure you have changed into Medifakt network in Metamask while doing any transactions on staking UI. 
+Note: You can only stake GBR which is on GBR20 network. Please make sure you have changed into GBR20 network in Metamask while doing any transactions on staking UI. 
 
-How to Stake FAKT:
+How to Stake GBR:
 
 **Step 1:**
 
-Navigate to staking.medifakt.network and login to your wallet through metamask. Make sure you are on Medifakt network. If you are not please follow the instructions [**here**](https://docs.medifakt.network/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Navigate to staking.gbrscan.com and login to your wallet through metamask. Make sure you are on GBR20 network. If you are not please follow the instructions [**here**](https://docs.gbrscan.com/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
 
 ![](.gitbook/assets/0%20%284%29.png)
 
@@ -35,11 +35,11 @@ You should see the **“stake**” option when you hover over the Validator you 
 
 ![](.gitbook/assets/2%20%287%29.png)
 
-You will also see the APY on staking when you enter the amount of FAKT you want to stake. You can see the staked amount right next to the validator name to whom you have delegated you stake to. 
+You will also see the APY on staking when you enter the amount of GBR you want to stake. You can see the staked amount right next to the validator name to whom you have delegated you stake to. 
 
 ![](.gitbook/assets/3%20%286%29.png)
 
-**How to Unstake FAKT:**
+**How to Unstake GBR:**
 
 Click on the Validator name and you should see the validator name with address on the right hand side. Click on **“unstake”** and enter the amount you want to unstake and click on **“unstake”**. Confirm the transaction on Metamask and wait for the on-chain confirmation. Once the transaction is confirmed the unstaked amount is transferred back to your address.
 

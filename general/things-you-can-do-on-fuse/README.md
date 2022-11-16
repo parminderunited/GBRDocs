@@ -1,2 +1,2 @@
-# Things you can do on Medifakt
+# Things you can do on GBR20
 
