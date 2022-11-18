@@ -15,7 +15,6 @@
   * [GBR20 Token (GBR)](general/learn-about-the-fuse-platform/fuse-token/README.md)
     * [GBR Tokenomics](general/learn-about-the-fuse-platform/fuse-token/fuse-tokenomics.md)
     * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting GBR](general/learn-about-the-fuse-platform/fuse-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md)
-    * [GBR on Other Chains](general/learn-about-the-fuse-platform/fuse-token/fuse-on-other-chains.md)
   * [Interoperability](general/learn-about-the-fuse-platform/interoperability.md)
   * [GBR20 Governance and Development](general/learn-about-the-fuse-platform/fuse-governance-and-development/README.md)
     * [GBR20 Assembly](general/learn-about-the-fuse-platform/fuse-governance-and-development/fuse-assembly.md)
